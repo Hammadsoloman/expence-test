@@ -2,6 +2,9 @@
 
 > Full stack expense tracker
 
+#### Image for the app
+![image](./assets/upload.jpg)
+
 ## Usage
 
 ```
